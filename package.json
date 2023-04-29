@@ -51,5 +51,10 @@
   "homepage": "https://github.com/hungtcs/react-axios",
   "bugs": {
     "url": "https://github.com/hungtcs/react-axios/issues"
-  }
+  },
+  "keywords": [
+    "axios",
+    "react",
+    "interceptor"
+  ]
 }
